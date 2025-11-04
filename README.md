@@ -22,4 +22,4 @@ Copy the files (not folders!) of the mod folder and put them into their respecti
 
 Shadow Golden Freddy Plush is a powerful adversary to fight against, even moreso than his cousin, the Freddy Plush. Unlike his cousin who only has a rare chance to appear in Power 1 areas, Shadow Golden Freddy Plush can only be encountered in the only Power 5 area of FNaFb 2/CC2, **the Office**. He is encountered the same way Freddy Plush is, so just keep encountering enemies in the Office until he shows up.
 
-And that concludes how to install this mod and how it works gameplay wise. Git Gud and have fun.
+And that concludes how to install this mod and how it works gameplay wise. If you want to make your mod adjecent to this using this repository, feel free to do so, just credit me for it (Or don't. It's a free world). Anyways, Git Gud and have fun.
