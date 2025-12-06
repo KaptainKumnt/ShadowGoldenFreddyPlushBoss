@@ -24,3 +24,8 @@ Copy the files (not folders!) of the mod folder and put them into their respecti
 Shadow Golden Freddy Plush is a powerful adversary to fight against, even moreso than his cousin, the Freddy Plush. Unlike his cousin who only has a rare chance to appear in Power 1 areas, Shadow Golden Freddy Plush can only be encountered in the only Power 5 area of FNaFb 2/CC2, **the Office**. He is encountered the same way Freddy Plush is, so just keep encountering enemies in the Office until he shows up.
 
 And that concludes how to install this mod and how it works gameplay wise. If you want to make your mod adjecent to this using this repository, feel free to do so, just credit me for it (Or don't. It's a free world). Anyways, Git Gud and have fun.
+# Credits
+* Shadow Golden Freddy Plush sprite made by me (KaptainKumnt)
+* Boss Fight made by me (KaptainKumnt)
+* [Queen from Lisa: The Lustful](https://youtu.be/lrCyuHy2hMc) as S.G.F.P.'s Original Soundtrack Battle Theme
+* [Skid Granite from Lisa: The Pointless: Scholar of the Wilbur Sin](https://youtu.be/fh25y2S58Lw) as S.G.F.P.'s Alternate Soundtrack Battle Theme
